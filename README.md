@@ -1,1 +1,1 @@
-# zalman_i3_fun_controller
+Zalman i3 ATX fun controller on attiny 13a
